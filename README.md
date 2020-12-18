@@ -1,2 +1,2 @@
 # C
-C practiceS
+C practice
